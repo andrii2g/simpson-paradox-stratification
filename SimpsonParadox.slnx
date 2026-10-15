@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SimpsonParadox/SimpsonParadox.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SimpsonParadox.Tests/SimpsonParadox.Tests.csproj" />
+  </Folder>
+</Solution>
