@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="890" viewBox="0 0 1200 890" role="img" aria-labelledby="title desc">
+<title id="title">Simpson's paradox: group rates and combined rates</title>
+<desc id="desc">Three grouped bar charts with a common zero to one hundred percent scale, followed by group proportions and direct standardization. Exact counts accompany the bars.</desc>
+<rect width="1200" height="890" fill="#f3f6fa"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#18283c} .muted{fill:#526277} .small{font-size:14px} .label{font-size:17px} .heading{font-size:22px;font-weight:700}</style><text x="40" y="47" class="heading" text-anchor="start">SIMPSON&apos;S PARADOX</text>
+<text x="40" y="76" class="label muted" text-anchor="start">Exact counts. Different population mixes. A reversed aggregate.</text>
+<text x="40" y="103" class="small muted" text-anchor="start">Deterministic synthetic example</text>
+<rect x="40" y="125" width="360" height="365" rx="3" fill="#ffffff"/>
+<text x="220" y="158" class="heading" text-anchor="middle">Group 1</text>
+<path d="M 98 420 H 375" stroke="#dce3eb"/>
+<text x="88" y="425" class="small muted" text-anchor="end">0%</text>
+<path d="M 98 370 H 375" stroke="#dce3eb"/>
+<text x="88" y="375" class="small muted" text-anchor="end">25%</text>
+<path d="M 98 320 H 375" stroke="#dce3eb"/>
+<text x="88" y="325" class="small muted" text-anchor="end">50%</text>
+<path d="M 98 270 H 375" stroke="#dce3eb"/>
+<text x="88" y="275" class="small muted" text-anchor="end">75%</text>
+<path d="M 98 220 H 375" stroke="#dce3eb"/>
+<text x="88" y="225" class="small muted" text-anchor="end">100%</text>
+<rect x="130" y="240" width="76" height="180" rx="3" fill="#126caa"/>
+<text x="168" y="230" class="label" text-anchor="middle">90.00%</text>
+<text x="168" y="446" class="label" text-anchor="middle">A</text>
+<text x="168" y="471" class="small muted" text-anchor="middle">9/10</text>
+<rect x="265" y="260" width="76" height="160" rx="3" fill="#b84d17"/>
+<text x="303" y="250" class="label" text-anchor="middle">80.00%</text>
+<text x="303" y="446" class="label" text-anchor="middle">B</text>
+<text x="303" y="471" class="small muted" text-anchor="middle">80/100</text>
+<text x="220" y="192" class="label" text-anchor="middle">A leads</text>
+<rect x="430" y="125" width="360" height="365" rx="3" fill="#ffffff"/>
+<text x="610" y="158" class="heading" text-anchor="middle">Group 2</text>
+<path d="M 488 420 H 765" stroke="#dce3eb"/>
+<text x="478" y="425" class="small muted" text-anchor="end">0%</text>
+<path d="M 488 370 H 765" stroke="#dce3eb"/>
+<text x="478" y="375" class="small muted" text-anchor="end">25%</text>
+<path d="M 488 320 H 765" stroke="#dce3eb"/>
+<text x="478" y="325" class="small muted" text-anchor="end">50%</text>
+<path d="M 488 270 H 765" stroke="#dce3eb"/>
+<text x="478" y="275" class="small muted" text-anchor="end">75%</text>
+<path d="M 488 220 H 765" stroke="#dce3eb"/>
+<text x="478" y="225" class="small muted" text-anchor="end">100%</text>
+<rect x="520" y="380" width="76" height="40" rx="3" fill="#126caa"/>
+<text x="558" y="370" class="label" text-anchor="middle">20.00%</text>
+<text x="558" y="446" class="label" text-anchor="middle">A</text>
+<text x="558" y="471" class="small muted" text-anchor="middle">20/100</text>
+<rect x="655" y="400" width="76" height="20" rx="3" fill="#b84d17"/>
+<text x="693" y="390" class="label" text-anchor="middle">10.00%</text>
+<text x="693" y="446" class="label" text-anchor="middle">B</text>
+<text x="693" y="471" class="small muted" text-anchor="middle">1/10</text>
+<text x="610" y="192" class="label" text-anchor="middle">A leads</text>
+<rect x="820" y="125" width="360" height="365" rx="3" fill="#ffffff"/>
+<text x="1000" y="158" class="heading" text-anchor="middle">Combined population</text>
+<path d="M 878 420 H 1155" stroke="#dce3eb"/>
+<text x="868" y="425" class="small muted" text-anchor="end">0%</text>
+<path d="M 878 370 H 1155" stroke="#dce3eb"/>
+<text x="868" y="375" class="small muted" text-anchor="end">25%</text>
+<path d="M 878 320 H 1155" stroke="#dce3eb"/>
+<text x="868" y="325" class="small muted" text-anchor="end">50%</text>
+<path d="M 878 270 H 1155" stroke="#dce3eb"/>
+<text x="868" y="275" class="small muted" text-anchor="end">75%</text>
+<path d="M 878 220 H 1155" stroke="#dce3eb"/>
+<text x="868" y="225" class="small muted" text-anchor="end">100%</text>
+<rect x="910" y="367.273" width="76" height="52.727" rx="3" fill="#126caa"/>
+<text x="948" y="357.27272727272725" class="label" text-anchor="middle">26.36%</text>
+<text x="948" y="446" class="label" text-anchor="middle">A</text>
+<text x="948" y="471" class="small muted" text-anchor="middle">29/110</text>
+<rect x="1045" y="272.727" width="76" height="147.273" rx="3" fill="#b84d17"/>
+<text x="1083" y="262.72727272727275" class="label" text-anchor="middle">73.64%</text>
+<text x="1083" y="446" class="label" text-anchor="middle">B</text>
+<text x="1083" y="471" class="small muted" text-anchor="middle">81/110</text>
+<text x="1000" y="192" class="label" text-anchor="middle">B leads</text>
+<rect x="40" y="510" width="1140" height="145" rx="3" fill="#ffffff"/>
+<text x="60" y="541" class="heading" text-anchor="start">WHY THE AGGREGATE CHANGES</text>
+<text x="60" y="573" class="label" text-anchor="start">A allocation: Group 1 9.09% / Group 2 90.91%</text>
+<text x="60" y="602" class="label" text-anchor="start">B allocation: Group 1 90.91% / Group 2 9.09%</text>
+<text x="60" y="632" class="label" text-anchor="start">The subgroup loser leads overall by 47.27 percentage points.</text>
+<rect x="40" y="675" width="1140" height="135" rx="3" fill="#ffffff"/>
+<text x="60" y="706" class="heading" text-anchor="start">COMPARE THE SAME POPULATION MIX</text>
+<text x="60" y="736" class="label" text-anchor="start">Shared weights (equal): Group 1 50.00%, Group 2 50.00%</text>
+<text x="60" y="771" class="heading" text-anchor="start">Standardized A: 55.00%     B: 45.00%     A - B: 10.00 pp</text>
+<text x="40" y="844" class="small muted" text-anchor="start">Standardization changes the reference population; it does not establish a causal treatment effect.</text>
+<text x="40" y="870" class="small muted" text-anchor="start">Rates are exact fractions internally. Percentages are rounded only for display. Blue = A; orange = B.</text>
+</svg>
